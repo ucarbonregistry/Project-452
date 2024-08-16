@@ -81,5 +81,58 @@ Hence the UCR project activity has never been issued voluntary carbon credits fo
 2023 vintage years and there is no double counting of the credits envisioned. Additionally, the same
 will be stated in the undertaking provided in the Double Counting Avoidance Assurance Document
 (DAA) by M/s. Shree Chhatrapati Shahu Sahakari Sakhar Karkhana Ltd.
+________________
+ISSUE DATE: 16/08/2024
+
+QTY: 232860 CoUs
+__________
+Serial Number: 0001-000001-035024-UCR-CoU-IN-452-01012016-31122016
+
+Vintage Year: 2016
+
+Quantity: 35024
+____________
+Serial Number: 0001-035025-055787-UCR-CoU-IN-452-01012017-31122017
+
+Vintage Year: 2017
+
+Quantity: 20763
+________________
+Serial Number: 0001-055788-081522-UCR-CoU-IN-452-01012018-31122018
+
+Vintage Year: 2018
+
+Quantity: 25735
+_______________
+Serial Number: 0001-081523-108805-UCR-CoU-IN-452-01012019-31122019
+
+Vintage Year: 2019
+
+Quantity: 27283
+______________
+Serial Number: 0001-108806-138616-UCR-CoU-IN-452-01012020-31122020
+
+Vintage Year: 2020
+
+Quantity: 29811
+___________
+Serial Number: 0001-138617-173883-UCR-CoU-IN-452-01012021-31122021
+
+Vintage Year: 2021
+
+Quantity: 35267
+______________
+Serial Number: 0001-173884-205614-UCR-CoU-IN-452-01012022-31122022
+
+Vintage Year: 2022
+
+Quantity: 31731
+____________
+Serial Number: 0001-205614-232860-UCR-CoU-IN-452-01012023-31122023
+
+Vintage Year: 2023
+
+Quantity: 27246
+________________
 
 
